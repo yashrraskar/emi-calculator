@@ -1,6 +1,6 @@
 # EMI Calculator Web Application
 
-## 📌 Project Description
+## Project Description
 
 This is a simple EMI (Equated Monthly Installment) Calculator web application developed using Python Flask and HTML.
 
@@ -15,10 +15,9 @@ The application allows users to:
 The rate of interest is decided based on the user's CIBIL score.
 
 
-
 ---
 
-## 📖 Features
+## Features
 
 - Simple and beginner-friendly interface
 - EMI calculation using financial formula
@@ -42,7 +41,7 @@ The rate of interest is decided based on the user's CIBIL score.
 
 ---
 
-## 🧮 EMI Formula
+## EMI Formula
 
 EMI = [P × R × (1 + R)^N] / [(1 + R)^N – 1]
 
@@ -54,7 +53,7 @@ Where:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 emi-calculator/
@@ -66,12 +65,6 @@ emi-calculator/
 └── templates/
       └── index.html
 ```
-## 🎯 Learning Outcomes
-
-- Understanding EMI calculations
-- Using conditional statements in Python
-- Working with loops
-- Creating web applications using Flask
-- Displaying tabular output
+## LINK TO WEBSITE 
 ```
-link : https://emi-calculator-6dx3.onrender.com/
+https://emi-calculator-6dx3.onrender.com/
